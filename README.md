@@ -1,0 +1,2 @@
+# predicting_employee_attrition
+Losing employees can carry a great financial cost for companies. This app was constructed using a human resources dataset from IBM that was shared on Kaggle. The dataset contains employee profiles and attrition info such as age, department, role, work/life balance, and so forth. This data is used to generate a deep learning model that predicts whether an employee is likely to depart from the company within the next two years given their profile.
